@@ -52,10 +52,6 @@ const TableColumn = (props) => {
 		}
 	}
 
-	const renderItemsList = () => {
-
-	} 
-
 	return(
 		<div className={css.container}>
 
